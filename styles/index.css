@@ -115,3 +115,13 @@ p {font-family: 'Pacifico', cursive;
     transition: all 0.9s ease-in-out;
     transition-delay: 0.5s;
 }
+
+.footer {
+    width: 100%;
+    min-width: 1000px;
+    height: 400px;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
