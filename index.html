@@ -34,9 +34,16 @@
             <circle cx="110" cy="110" r="100" stroke-width="20" fill="pink" stroke="green"/>
             <polyline points="70,120 100,165 150,80" stroke="green" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>     
-        <svg>
-            <use href="images/cross.svg#cross"></use>
+        <svg width="240" height="240" viewbox="0 0 240 240" fill="none" xmlns="https://www.w3.org/2000/svg">
+            <circle cx="110" cy="110" r="100" stroke-width="20" fill="red" stroke="red"/>
+            <polyline points="73,73 146,146" stroke="white" stroke-width="10"/>
+            <polyline points="146,73 73,146" stroke="white" stroke-width="10"/>
         </svg>
+        <img src="./images/delete.svg" alt="delete"/>
+        <svg>
+            <use href="./images/delete.svg#delete"></use>
+        </svg>
+        <!--the <img> and <use> tags wont link the svg. the code works (as line 38)-->
     </div>
 </body>
 </html>
