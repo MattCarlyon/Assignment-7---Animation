@@ -1,0 +1,9 @@
+
+
+<svg width="240" height="240" viewbox="0 0 240 240" fill="none" xmlns="https://www.w3.org/2000/svg">
+    <symbol id="cross" viewbox="0 0 240 240">
+    <circle cx="110" cy="110" r="100" stroke-width="20" fill="red" stroke="red"/>
+    <polyline points="73,73 146,146" stroke="white" stroke-width="10"/>
+    <polyline points="146,73 73,146" stroke="white" stroke-width="10"/>
+    </symbol>
+</svg>

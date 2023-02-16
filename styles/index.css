@@ -119,7 +119,7 @@ p {font-family: 'Pacifico', cursive;
 .footer {
     width: 100%;
     min-width: 1000px;
-    height: 400px;
+    height: 250px;
     background-color: pink;
     display: flex;
     flex-direction: row;
